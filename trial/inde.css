@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    
+    
+}
+img{
+    align-items: center;
+}
+section{
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#ruc{
+    background-color: blueviolet;
+    width: 900px;
+    margin-left: 300px;
+    border-style: hidden;
+    border-radius: 15px;
+
+}
+img{
+    margin-top: 30px;
+    margin-inline-start: 270px;
+}
+.so{
+    margin-inline-start: 310px;
+    text-decoration: none;
+    font-size: x-large;
+    color: white;
+    margin-bottom: 20px;
+    font-family: font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#eeee{
+    margin-bottom: 20px;
+}
+footer{
+    margin: 40px;
+    color: white;
+    text-align: center;
+}
+video{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+  }
+  #one{
+    text-align: center;
+  }
+  
